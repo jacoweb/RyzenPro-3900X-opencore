@@ -14,7 +14,9 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 
 **Motherboard:** Gigabyte B550I AORUS PRO AX
 
-**CPU:** AMD Ryzen 9 3900x 12Core/24 Threads 
+**CPU:** AMD Ryzen 9 3900x 12Core/24 Threads
+
+**MEM:** HyperX Fury RGB DDR4 3600MHz 16GB
 
 **GPU:** ASUS Radeon RX 580 8GB ROG Strix Gaming 
 
