@@ -2,6 +2,8 @@
 
 How to run Mac OS Catalina on AMD Ryzen 9 3900x.
 
+![alt text](preview.png "MacOS")
+
 ## Installation
 
 The best way is to follow this guide to understand how Opencore is working
@@ -12,6 +14,8 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 
 ## Hardware
 
+**Case:** NZXT H1 White
+
 **Motherboard:** Gigabyte B550I AORUS PRO AX
 
 **CPU:** AMD Ryzen 9 3900x 12Core/24 Threads
@@ -20,4 +24,4 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 
 **GPU:** ASUS Radeon RX 580 8GB ROG Strix Gaming 
 
-**SSD:** Kingston A2000 500GB NVMe M.2 SSD
+**SSD:** 2xKingston A2000 500GB NVMe M.2 SSD
