@@ -35,4 +35,4 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 | Ethernet | Working |
 | iMessage | Working |
 | iCloud | Working |
-| Docker | [https://evgeni.blog/hackintosh/docker-amd-ryzen] |
+| Docker | https://evgeni.blog/hackintosh/docker-amd-ryzen |
