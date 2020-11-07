@@ -26,3 +26,13 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 **GPU:** ASUS Radeon RX 580 8GB ROG Strix Gaming 
 
 **SSD:** 2xKingston A2000 500GB NVMe M.2 SSD
+
+## What's Working
+
+| Function | Status |
+| ------ | ------ |
+| Sleep | Not working atm |
+| Ethernet | Working |
+| iMessage | Working |
+| iCloud | Working |
+| Docker | [https://evgeni.blog/hackintosh/docker-amd-ryzen] |
