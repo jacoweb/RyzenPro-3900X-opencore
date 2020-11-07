@@ -29,12 +29,12 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 **SSD:** 2xKingston A2000 500GB NVMe M.2 SSD
 
 
-## What's Working
+## Status
 
-| Function | Status |
-| ------ | ------ |
-| Sleep | Not working atm |
-| Ethernet | Working |
-| iMessage | Working |
-| iCloud | Working |
-| Docker | https://evgeni.blog/hackintosh/docker-amd-ryzen |
+Some apps will not work with AMD CPU because of Apple hyper visor framework. 
+I found a workaround for docker.
+
+Adobe apps can have some issues, i have not tested because i dont use Adobe.
+
+Docker for AMD systems:
+https://evgeni.blog/hackintosh/docker-amd-ryzen
