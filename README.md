@@ -13,6 +13,7 @@ The best way is to follow this guide to understand how Opencore is working
 https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 ```
 
+
 ## Hardware
 
 **Case:** NZXT H1 White
@@ -26,6 +27,7 @@ https://dortania.github.io/OpenCore-Install-Guide/AMD/zen.html
 **GPU:** ASUS Radeon RX 580 8GB ROG Strix Gaming 
 
 **SSD:** 2xKingston A2000 500GB NVMe M.2 SSD
+
 
 ## What's Working
 
