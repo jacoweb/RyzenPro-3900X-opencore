@@ -1,6 +1,7 @@
 # RyzenPro-3900X-opencore
 
-How to run Mac OS Catalina on AMD Ryzen 9 3900x.
+How to run Mac OS Catalina on AMD Ryzen system.
+If you have a B550 motherboard you can use this EFI, but i recommend to build your own.
 
 ![alt text](preview.png "MacOS")
 
